@@ -1,0 +1,1 @@
+export { StyleColorSocialFacebook } from "./StyleColorSocialFacebook";

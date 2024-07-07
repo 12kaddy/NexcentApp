@@ -1,0 +1,1 @@
+export { StyleColorSocialInstagram } from "./StyleColorSocialInstagram";

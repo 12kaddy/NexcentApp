@@ -1,0 +1,1 @@
+export { FooterBig } from "./FooterBig";
